@@ -1,190 +1,59 @@
-<h1 align="center">Hi 👋, I'm Dinesh K</h1>
-
-<h3 align="center">AI & Data Science Student | Machine Learning Enthusiast</h3>
-
+Hi 👋, I'm Dinesh K
+```{=html}
 <p align="center">
-Building Intelligent AI Solutions 🚀
+```
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Python+Developer;Always+Learning+New+Things" />`{=html}
+```{=html}
 </p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Data+Science+Explorer;Future+AI+Engineer;Always+Learning+New+Technologies"/>
-</p>
-
+```
+🚀 About Me
+🎓 AI & Data Science Student
+🤖 Interested in Machine Learning, Deep Learning and Data Science
+🌱 Currently learning TensorFlow, PyTorch and MLOps
+💬 Ask me about Python, ML and Data Analytics
+📫 LinkedIn: (add your link)
 ---
-
-# 🚀 About Me
-
-- 🎓 AI & Data Science Undergraduate
-- 🤖 Passionate about Artificial Intelligence, Machine Learning & Deep Learning
-- 📊 Interested in Data Science, Computer Vision and Natural Language Processing
-- 💡 Love solving real-world problems using AI
-- 🌱 Currently learning TensorFlow, PyTorch, Docker, FastAPI & AWS
-- 🚀 Looking for AI/ML Internship Opportunities
-
+🛠️ Tech Stack
+Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+AI / Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+📂 Featured Projects
 ---
-
-# 🧠 Tech Stack
-
-<table>
-<tr>
-
-<td width="25%" valign="top">
-
-### 💻 Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python"/><br>
-<img src="https://skillicons.dev/icons?i=java"/><br>
-<img src="https://skillicons.dev/icons?i=c"/><br>
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-</p>
-
-</td>
-
-<td width="25%" valign="top">
-
-### 🤖 AI / ML
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/><br>
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-
-</p>
-
-<div align="center">
-
-NumPy<br>
-Pandas<br>
-Scikit-Learn<br>
-Matplotlib<br>
-Seaborn<br>
-Jupyter Notebook
-
-</div>
-
-</td>
-
-<td width="25%" valign="top">
-
-### 🗄 Database
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql"/><br>
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-</p>
-
-</td>
-
-<td width="25%" valign="top">
-
-### ⚙️ Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git"/><br>
-<img src="https://skillicons.dev/icons?i=github"/><br>
-<img src="https://skillicons.dev/icons?i=vscode"/><br>
-<img src="https://skillicons.dev/icons?i=docker"/><br>
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
+Project                       Description
 ---
-
-# 📂 Featured Projects
-
-| 🚀 Project | 📄 Description |
-|------------|----------------|
-| 🤖 Employee Attrition Prediction | Machine Learning model for employee attrition prediction |
-| 🧠 Government Welfare Fraud Detection | Fraud detection using Graph Neural Networks |
-| 🚦 Intelligent Traffic Management System | AI-powered traffic optimization |
-| 💰 Personal Finance Tracker | Smart expense and budget tracking application |
-| 🏡 House Price Prediction | House price prediction using Machine Learning |
-
----
-
-# 🏆 Achievements
-
-🏅 **Oracle Certified Professional (OCP) – Java SE 17 Developer**
-
-📊 **Career Essentials in Data Analysis by Microsoft & LinkedIn** *(Professional Certificate)*
-
-🚀 **Participant – Smart India Hackathon (SIH)**
-
----
-
-# 📈 GitHub Analytics
-
+Employee Attrition Prediction ML model for predicting employee
+attrition
+Fake News Detection           NLP classification project
+Finance Tracker               Budget & analytics application
+Identity Fraud Detection      GNN-based fraud detection
+📊 GitHub Stats
+```{=html}
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DineshK-5257&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshK-5257&layout=compact&theme=tokyonight&hide_border=true"/>
-
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>`{=html}
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>`{=html}
+```{=html}
 </p>
-
+```
+```{=html}
 <p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=DineshK-5257&theme=tokyonight&hide_border=true"/>
-
+```
+`<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>`{=html}
+```{=html}
 </p>
-
-<p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DineshK-5257&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-- 🤖 Deep Learning
-- ⚡ Generative AI
-- ☁️ AWS Cloud
-- 🐳 Docker
-- 🚀 MLOps
-- ⚙️ FastAPI
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/dinesh-kribakaran">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:dineshkribakaran@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-
-📧 **dineshkribakaran@gmail.com**
-
-💼 **LinkedIn:** https://www.linkedin.com/in/dinesh-kribakaran
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=DineshK-5257&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
-
-</p>
+```
+🐍 Contribution Snake
+Replace with GitHub Action after setup.
+🌱 Currently Learning
+Deep Learning
+Generative AI
+MLOps
+Computer Vision
+📫 Connect
+LinkedIn
+Email
