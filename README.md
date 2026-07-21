@@ -79,5 +79,5 @@ NumPy • Pandas • Scikit-Learn • Matplotlib • Seaborn
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: https://linkedin.com/in/dinesh-kribakaran
+- 📧 Email: dineshkribakaran@gmail.com
