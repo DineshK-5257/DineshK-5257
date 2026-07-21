@@ -1,13 +1,13 @@
-<p align="center">
-  <img src="banner.png" alt="Dinesh K Banner" width="100%">
-</p>
-
 <h1 align="center">Hi 👋, I'm Dinesh K</h1>
 
-<h3 align="center">AI & Data Science Student | Building Intelligent AI Solutions</h3>
+<h3 align="center">AI & Data Science Student | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Aspiring+AI+Engineer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+Building Intelligent AI Solutions 🚀
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Data+Science+Explorer;Future+AI+Engineer;Always+Learning+New+Technologies"/>
 </p>
 
 ---
@@ -15,70 +15,102 @@
 # 🚀 About Me
 
 - 🎓 AI & Data Science Undergraduate
-- 🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and MLOps
-- 💡 Love building intelligent systems that solve real-world problems
-- 📊 Interested in Data Analytics, Computer Vision, NLP, and AI-powered applications
-- 🌱 Currently learning TensorFlow, PyTorch, FastAPI, Docker, and AWS
-- 🚀 Always exploring new technologies and building impactful projects
+- 🤖 Passionate about Artificial Intelligence, Machine Learning & Deep Learning
+- 📊 Interested in Data Science, Computer Vision and Natural Language Processing
+- 💡 Love solving real-world problems using AI
+- 🌱 Currently learning TensorFlow, PyTorch, Docker, FastAPI & AWS
+- 🚀 Looking for AI/ML Internship Opportunities
 
 ---
 
-# 🛠️ Tech Stack
+# 🧠 Tech Stack
 
-### 👨‍💻 Languages
+<table>
+<tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql" />
+<td width="25%" valign="top">
+
+### 💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/><br>
+<img src="https://skillicons.dev/icons?i=java"/><br>
+<img src="https://skillicons.dev/icons?i=c"/><br>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
 </p>
 
-### 🤖 AI / Machine Learning
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<td width="25%" valign="top">
+
+### 🤖 AI / ML
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/><br>
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
 </p>
 
-**Libraries:**  
-NumPy • Pandas • Scikit-Learn • Matplotlib • Seaborn • Jupyter Notebook
+<div align="center">
 
----
+NumPy<br>
+Pandas<br>
+Scikit-Learn<br>
+Matplotlib<br>
+Seaborn<br>
+Jupyter Notebook
 
-### 🌐 Web Development
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,flask,fastapi" />
+</td>
+
+<td width="25%" valign="top">
+
+### 🗄 Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql"/><br>
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
 </p>
 
----
+</td>
 
-### 🗄️ Databases
+<td width="25%" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+### ⚙️ Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git"/><br>
+<img src="https://skillicons.dev/icons?i=github"/><br>
+<img src="https://skillicons.dev/icons?i=vscode"/><br>
+<img src="https://skillicons.dev/icons?i=docker"/><br>
+<img src="https://skillicons.dev/icons?i=linux"/>
+
 </p>
 
----
+</td>
 
-### ⚙️ Tools & Technologies
+</tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman" />
-</p>
+</table>
 
 ---
 
 # 📂 Featured Projects
 
-🤖 Employee Attrition Prediction using Machine Learning
-
-🧠 Government Welfare Fraud Detection using Graph Neural Networks (GNN)
-
-🚦 Intelligent Traffic Management System
-
-💰 Personal Finance Tracker
-
-🏠 House Price Prediction
-
-📊 Sales Forecasting & Data Analytics
+| 🚀 Project | 📄 Description |
+|------------|----------------|
+| 🤖 Employee Attrition Prediction | Machine Learning model for employee attrition prediction |
+| 🧠 Government Welfare Fraud Detection | Fraud detection using Graph Neural Networks |
+| 🚦 Intelligent Traffic Management System | AI-powered traffic optimization |
+| 💰 Personal Finance Tracker | Smart expense and budget tracking application |
+| 🏡 House Price Prediction | House price prediction using Machine Learning |
 
 ---
 
@@ -92,19 +124,25 @@ NumPy • Pandas • Scikit-Learn • Matplotlib • Seaborn • Jupyter Noteboo
 
 ---
 
-# 📈 GitHub Statistics
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DineshK-5257&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DineshK-5257&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshK-5257&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshK-5257&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=DineshK-5257&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=DineshK-5257&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DineshK-5257&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -112,20 +150,20 @@ NumPy • Pandas • Scikit-Learn • Matplotlib • Seaborn • Jupyter Noteboo
 
 # 📚 Currently Learning
 
-- 🧠 Machine Learning
 - 🤖 Deep Learning
 - ⚡ Generative AI
-- ☁️ MLOps
+- ☁️ AWS Cloud
 - 🐳 Docker
-- ☁️ AWS
+- 🚀 MLOps
+- ⚙️ FastAPI
 
 ---
 
-# 🌐 Connect With Me
+# 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/dinesh-kribakaran" target="_blank">
+<a href="https://www.linkedin.com/in/dinesh-kribakaran">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -135,18 +173,18 @@ NumPy • Pandas • Scikit-Learn • Matplotlib • Seaborn • Jupyter Noteboo
 
 </p>
 
-📧 **Email:** dineshkribakaran@gmail.com
+<p align="center">
+
+📧 **dineshkribakaran@gmail.com**
 
 💼 **LinkedIn:** https://www.linkedin.com/in/dinesh-kribakaran
 
-🌍 **Portfolio:** Coming Soon
+</p>
 
 ---
 
-<h3 align="center">
-💡 "Building intelligent solutions today for a smarter tomorrow."
-</h3>
+<p align="center">
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+<img src="https://komarev.com/ghpvc/?username=DineshK-5257&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
+
+</p>
