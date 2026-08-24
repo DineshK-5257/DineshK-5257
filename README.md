@@ -1,131 +1,279 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/YOUR_USERNAME">Your Name</a> 👋</h1>
+<!-- ============================= -->
+<!--       PROFILE HEADER          -->
+<!-- ============================= -->
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%2F+Software+Engineer;Building+cool+things+with+code;Always+learning+something+new;Welcome+to+my+profile!)](https://git.io/typing-svg)
-
-</div>
+<h1 align="center">Hi 👋, I'm Dinesh K</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Future+AI+Engineer;Turning+Data+Into+Intelligent+Solutions" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dinesh-kribakaran">
+    <img src="https://img.shields.io/badge/LinkedIn-Dinesh%20K-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:dineshkribakaran@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technology/Framework]**
-- 👯 I'm looking to collaborate on **[Type of Project]**
-- 💬 Ask me about **[Your Expertise Areas]**
-- ⚡ Fun fact: **[Something interesting about you]**
-- 📫 How to reach me: **your.email@example.com**
+<img align="right" width="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
----
+🎓 B.Tech Student specializing in **Artificial Intelligence & Data Science**
 
-## 🛠️ Tech Stack
+🤖 Passionate about building intelligent systems using **AI & Machine Learning**
 
-<div align="center">
+📊 Interested in **Data Science, Deep Learning and Data Analytics**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+🧠 Exploring **Graph Neural Networks (GNNs)** and advanced AI models
 
-</div>
+🔭 Currently working on **AI-powered academic and real-world projects**
+
+🌱 Continuously learning **Machine Learning, Deep Learning, NLP and Computer Vision**
+
+💡 I enjoy turning complex problems into intelligent and practical solutions
+
+🚀 Goal: To become a skilled **AI Engineer / Data Scientist**
+
+<br clear="right"/>
 
 ---
 
-## 📌 Featured Projects
+# 🚀 What I'm Working On
 
-<div align="center">
+<table>
+<tr>
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=tokyonight" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&theme=tokyonight" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/PROJECT_THREE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_THREE&theme=tokyonight" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/PROJECT_FOUR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_FOUR&theme=tokyonight" />
-</a>
+<td width="50%">
 
-</div>
+### 🔐 Identity Fraud Detection
 
----
+Developing a fraud detection system for identifying suspicious relationships and fraud patterns in government welfare systems.
 
-## 🏆 Achievements
+**Technologies**
 
-<div align="center">
+`Python` `GNN` `Machine Learning`
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7)
+</td>
 
-</div>
+<td width="50%">
 
----
+### 🧠 Currently Learning
 
-## 📊 GitHub Analytics
+- Deep Learning
+- Graph Neural Networks
+- Natural Language Processing
+- Computer Vision
+- Advanced Machine Learning
 
-<div align="center">
+</td>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
-
-</div>
+</tr>
+</table>
 
 ---
 
-## 🌱 Currently Learning
+# 💻 Tech Stack
 
-<div align="center">
+### 👨‍💻 Programming Languages
 
-![Learning](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Learning](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Learning](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,sql" />
+</p>
 
-</div>
+### 🤖 Artificial Intelligence & Machine Learning
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
 
-## 🤝 Connect With Me
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"></a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+### 📊 Data Science & Analytics
+
+<p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
 </p>
 
 ---
 
-<div align="center">
+# 🧠 Featured Projects
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+<table>
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+<tr>
 
-</div>
+<td width="50%">
+
+## 🔐 Identity Fraud Detection
+
+AI-based fraud detection system designed to identify suspicious relationships and fraud patterns in government welfare systems.
+
+**Tech:**  
+`Python` `GNN` `Machine Learning`
+
+</td>
+
+<td width="50%">
+
+## 🛒 E-Commerce Recommendation System
+
+A smart recommendation system that analyzes user behavior and provides personalized product suggestions.
+
+**Tech:**  
+`Python` `Machine Learning` `Data Analysis`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🚦 Intelligent Traffic Management
+
+A smart traffic management system using graph-based models to analyze roads and optimize traffic flow.
+
+**Tech:**  
+`Python` `AI` `Graph Algorithms`
+
+</td>
+
+<td width="50%">
+
+## ☀️ Solar Power Forecasting
+
+A machine learning-based system for predicting solar energy generation.
+
+**Tech:**  
+`Python` `LSTM` `Random Forest`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=DineshK-5257&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshK-5257&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DineshK-5257&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DineshK-5257&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DineshK-5257&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌟 Areas of Interest
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-111111?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Science-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/dinesh-kribakaran">
+<img src="https://img.shields.io/badge/LinkedIn-Dinesh%20K-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dineshkribakaran@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-dineshkribakaran%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=DineshK-5257&label=Profile%20Views&color=36BCF7&style=for-the-badge"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⚡ Turning Ideas Into Intelligent Solutions ⚡
+
+</h3>
+
+<p align="center">
+
+Thanks for visiting my GitHub Profile! 🚀
+
+</p>
