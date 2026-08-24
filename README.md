@@ -1,34 +1,40 @@
-<!-- ====================================================== -->
-<!--                   PROFILE HEADER                       -->
-<!-- ====================================================== -->
+<!-- ========================================================= -->
+<!--                    PROFILE HEADER                         -->
+<!-- ========================================================= -->
 
-<h1 align="center">Hi 👋, I'm Dinesh K</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Oracle+Certified+Java+SE+17+Professional;Building+Intelligent+Solutions+With+AI" />
-</p>
+# 👋 Hi, I'm Dinesh K
 
-<p align="center">
+### Artificial Intelligence & Data Science Student | AI & ML Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Oracle+Certified+Java+SE+17+Professional;Exploring+Graph+Neural+Networks;Building+Intelligent+AI+Solutions" />
+
+<br>
 
 <a href="https://www.linkedin.com/in/dinesh-kribakaran">
-  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:dineshkribakaran@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20Me%20an-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/DineshK-5257">
-  <img src="https://img.shields.io/badge/Follow%20Me%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=DineshK-5257&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
+
+</div>
 
 ---
 
 # 👨‍💻 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTg3YWRvYmJ2dW5zYXB0bmRmbXBldmF5MGx6cWszb2V4d3p4eGgyZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif">
+<img align="right" width="330" src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=900&q=85" />
 
 🎓 **B.Tech Artificial Intelligence & Data Science Student**
 
@@ -38,9 +44,9 @@
 
 🧠 Exploring **Graph Neural Networks, Agentic AI and Advanced AI Models**
 
-💻 Building projects that transform data and ideas into practical solutions
+💻 Building projects that transform **data and ideas into practical solutions**
 
-🏆 Award-winning project presenter and AI enthusiast
+🏆 Award-winning **project presenter and AI enthusiast**
 
 🌱 Continuously learning new technologies and improving my technical skills
 
@@ -50,35 +56,49 @@
 
 ---
 
+# 🧠 What I’m Interested In
+
+<div align="center">
+
+| 🤖 Artificial Intelligence | 🧠 Machine Learning | 📊 Data Science |
+|:---:|:---:|:---:|
+| Intelligent Systems | Deep Learning | Data Analytics |
+| Generative AI | Computer Vision | Data Visualization |
+| Agentic AI | NLP | Predictive Analytics |
+| AI Automation | Graph Neural Networks | Business Intelligence |
+
+</div>
+
+---
+
 # 🏆 Achievements & Certifications
 
 <table>
-
 <tr>
 
 <td width="50%">
 
-### 🥇 First Place — Poster Presentation
+## 🥇 First Place — Poster Presentation
 
-**Project: EcoTwin AI**
+### EcoTwin AI
 
-🏆 Secured **1st Place** in a Poster Presentation competition
+🏆 Secured **1st Place** in a Poster Presentation competition.
 
 💰 Awarded a **₹5,000 Cash Prize**
 
-🤖 Project focused on applying AI concepts to create an intelligent solution.
+🤖 Project focused on applying Artificial Intelligence concepts to develop an intelligent solution.
 
 </td>
 
 <td width="50%">
 
-### ☕ Oracle Certified Professional
+## ☕ Oracle Certified Professional
 
-**Java SE 17**
+### Java SE 17
 
-🏅 Successfully earned an Oracle certification demonstrating knowledge of Java programming and modern Java concepts.
+🏅 Successfully earned an **Oracle Java SE 17 Professional Certification**.
 
-**Skills:**
+**Skills**
 
 `Java` `OOP` `Java SE 17`
 
@@ -90,29 +110,30 @@
 
 <td width="50%">
 
-### 🤖 Oracle Agentic AI Foundations
+## 🤖 Oracle Agentic AI Foundations
 
 Certified in **Agentic AI Foundations**.
 
-Focused on understanding AI agents, intelligent workflows and modern AI concepts.
+Focused on:
 
-**Focus:**
-
-`AI Agents` `Generative AI` `Agentic AI`
+`AI Agents`  
+`Generative AI`  
+`Agentic AI`  
+`Intelligent Workflows`
 
 </td>
 
 <td width="50%">
 
-### 📊 Career Essentials in Data Analytics
+## 📊 Career Essentials in Data Analytics
 
-Completed the **Career Essentials in Data Analytics** certification from:
+Completed the **Career Essentials in Data Analytics** certification.
 
 🏢 Microsoft
 
 💼 LinkedIn Learning
 
-**Skills:**
+**Skills**
 
 `Data Analytics` `Data Visualization` `Data Insights`
 
@@ -134,7 +155,7 @@ Completed the **Career Essentials in Data Analytics** certification from:
 
 ## 🔐 Identity Fraud Detection
 
-Developing an intelligent fraud detection system for identifying suspicious relationships and patterns in government welfare systems.
+Developing an intelligent fraud detection system for identifying suspicious relationships and fraudulent patterns in government welfare systems.
 
 ### Exploring
 
@@ -142,6 +163,7 @@ Developing an intelligent fraud detection system for identifying suspicious rela
 - Bayesian Networks
 - Machine Learning
 - Fraud Detection
+- Graph-based Analysis
 - Data Analysis
 
 </td>
@@ -156,6 +178,8 @@ Developing an intelligent fraud detection system for identifying suspicious rela
 - Natural Language Processing
 - Computer Vision
 - Advanced Machine Learning
+- Generative AI
+- AI Agents
 
 </td>
 
@@ -167,43 +191,57 @@ Developing an intelligent fraud detection system for identifying suspicious rela
 
 # 💻 Tech Arsenal
 
-### 👨‍💻 Programming
+## 👨‍💻 Programming Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,sql" />
-</p>
+<div align="center">
 
-### 🤖 AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,sql" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+</div>
 
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+---
 
-  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+## 🤖 AI & Machine Learning
 
-### 📊 Data Science
+<div align="center">
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch" />
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic_AI-0D1117?style=for-the-badge&logo=ai&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Data%20Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+</div>
 
-</p>
+---
 
-### 🗄️ Databases & Tools
+## 📊 Data Science & Analytics
 
-<p align="center">
+<div align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data_Visualization-FF6384?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🗄️ Databases & Development Tools
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,git,github,vscode,pycharm" />
 
-</p>
+</div>
 
 ---
 
@@ -219,9 +257,13 @@ Developing an intelligent fraud detection system for identifying suspicious rela
 
 An AI-based fraud detection system designed to identify suspicious relationships and fraudulent activity in government welfare systems.
 
-**Tech Stack**
+### Tech Stack
 
 `Python` `GNN` `Machine Learning` `Data Analysis`
+
+### Focus
+
+Graph-based fraud detection and intelligent relationship analysis.
 
 </td>
 
@@ -229,13 +271,17 @@ An AI-based fraud detection system designed to identify suspicious relationships
 
 ## 🌱 EcoTwin AI
 
-An innovative AI-focused project that earned **🥇 First Place in Poster Presentation**.
+An innovative AI-focused project designed around intelligent and sustainable solutions.
 
-🏆 **Award:** ₹5,000 Cash Prize
+🏆 **1st Place — Poster Presentation**
 
-**Focus**
+💰 **₹5,000 Cash Prize**
 
-`Artificial Intelligence` `Intelligent Systems`
+### Focus
+
+`Artificial Intelligence`  
+`Intelligent Systems`  
+`Sustainability`
 
 </td>
 
@@ -249,9 +295,13 @@ An innovative AI-focused project that earned **🥇 First Place in Poster Presen
 
 A smart recommendation system that analyzes user behavior and provides personalized product suggestions.
 
-**Tech Stack**
+### Tech Stack
 
 `Python` `Machine Learning` `Data Analysis`
+
+### Focus
+
+Personalized recommendations and user behavior analysis.
 
 </td>
 
@@ -261,9 +311,13 @@ A smart recommendation system that analyzes user behavior and provides personali
 
 A smart traffic management system using graph-based concepts to analyze road networks and traffic flow.
 
-**Tech Stack**
+### Tech Stack
 
 `Python` `AI` `Graph Algorithms`
+
+### Focus
+
+Traffic optimization and intelligent route analysis.
 
 </td>
 
@@ -277,9 +331,13 @@ A smart traffic management system using graph-based concepts to analyze road net
 
 A machine learning-based system for forecasting solar energy generation.
 
-**Tech Stack**
+### Tech Stack
 
 `Python` `LSTM` `Random Forest`
+
+### Focus
+
+Time-series forecasting and renewable energy analytics.
 
 </td>
 
@@ -287,9 +345,9 @@ A machine learning-based system for forecasting solar energy generation.
 
 ## 🤖 AI & Data Science Projects
 
-A collection of academic and personal projects involving data analysis, machine learning and artificial intelligence.
+A collection of academic and personal projects involving Artificial Intelligence, Machine Learning and Data Science.
 
-**Focus**
+### Focus
 
 `Python` `AI` `ML` `Data Science`
 
@@ -301,127 +359,134 @@ A collection of academic and personal projects involving data analysis, machine 
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Activity
 
-<p align="center">
+<div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=DineshK-5257&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-alt="Dinesh K GitHub Stats"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DineshK-5257&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshK-5257&layout=compact&theme=tokyonight&hide_border=true"
-alt="Dinesh K Top Languages"/>
-
-</p>
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 GitHub Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=DineshK-5257&theme=tokyonight&hide_border=true"
-alt="Dinesh K GitHub Streak"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DineshK-5257&theme=github_dark" width="95%"/>
 
-</p>
+</div>
+
+---
+
+# 📊 GitHub Language Distribution
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshK-5257&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="200"/>
+
+</div>
 
 ---
 
 # 🌟 Areas of Interest
 
-<p align="center">
+<div align="center">
 
-<a href="#">
-<img src="https://img.shields.io/badge/🤖_Artificial_Intelligence-0D1117?style=for-the-badge" />
-</a>
+<img src="https://img.shields.io/badge/🤖_Artificial_Intelligence-0D1117?style=for-the-badge"/>
 
-<a href="#">
-<img src="https://img.shields.io/badge/🧠_Machine_Learning-0D1117?style=for-the-badge" />
-</a>
+<img src="https://img.shields.io/badge/🧠_Machine_Learning-0D1117?style=for-the-badge"/>
 
-<a href="#">
-<img src="https://img.shields.io/badge/📊_Data_Science-0D1117?style=for-the-badge" />
-</a>
+<img src="https://img.shields.io/badge/📊_Data_Science-0D1117?style=for-the-badge"/>
 
-<a href="#">
-<img src="https://img.shields.io/badge/🕸️_Graph_Neural_Networks-0D1117?style=for-the-badge" />
-</a>
+<img src="https://img.shields.io/badge/🕸️_Graph_Neural_Networks-0D1117?style=for-the-badge"/>
 
-<a href="#">
-<img src="https://img.shields.io/badge/🤖_Agentic_AI-0D1117?style=for-the-badge" />
-</a>
+<img src="https://img.shields.io/badge/🤖_Agentic_AI-0D1117?style=for-the-badge"/>
 
-</p>
+<br>
 
-<p align="center">
+<img src="https://img.shields.io/badge/🧠_Deep_Learning-111827?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/🧠_Deep_Learning-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💬_Natural_Language_Processing-111827?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/💬_Natural_Language_Processing-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/👁️_Computer_Vision-111827?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/👁️_Computer_Vision-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📈_Data_Analytics-111827?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/📈_Data_Analytics-111827?style=for-the-badge" />
-
-</p>
-
----
-
-# 🌐 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/dinesh-kribakaran">
-  <img src="https://img.shields.io/badge/LinkedIn-Dinesh%20K-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
-</a>
-
-<a href="mailto:dineshkribakaran@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Dinesh%20K-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
-</a>
-
-<a href="https://github.com/DineshK-5257">
-  <img src="https://img.shields.io/badge/GitHub-DineshK--5257-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
+</div>
 
 ---
 
 # 🏅 Professional Milestones
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/🥇_Poster_Presentation-Winner-F5A623?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🥇_Poster_Presentation-Winner-F5A623?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/💰_Cash_Prize-₹5,000-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💰_Cash_Prize-₹5,000-22C55E?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/☕_Oracle-Java_SE_17-C74634?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/☕_Oracle-Java_SE_17-C74634?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-</p>
+<br><br>
 
-<p align="center">
+<img src="https://img.shields.io/badge/🤖_Oracle-Agentic_AI_Foundations-C74634?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/🤖_Oracle-Agentic_AI_Foundations-C74634?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/📊_Microsoft-Data_Analytics-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/📊_Microsoft-Data_Analytics-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-
-</p>
+</div>
 
 ---
 
-<p align="center">
+# 🌐 Let's Connect
 
-<img src="https://komarev.com/ghpvc/?username=DineshK-5257&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
+<div align="center">
 
-</p>
+<a href="https://www.linkedin.com/in/dinesh-kribakaran">
+<img src="https://img.shields.io/badge/LinkedIn-Dinesh%20K-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dineshkribakaran@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Dinesh%20K-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DineshK-5257">
+<img src="https://img.shields.io/badge/GitHub-DineshK--5257-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ My AI Journey
+
+<div align="center">
+
+**Learn → Build → Experiment → Innovate**
+
+<br>
+
+🤖 **Artificial Intelligence**
+
+⬇
+
+🧠 **Machine Learning & Deep Learning**
+
+⬇
+
+🕸️ **Graph Neural Networks & Intelligent Systems**
+
+⬇
+
+🚀 **Real-World AI Applications**
+
+</div>
 
 ---
 
 <h2 align="center">
+
 ⚡ Learn. Build. Innovate. ⚡
+
 </h2>
 
 <p align="center">
@@ -431,5 +496,7 @@ alt="Dinesh K GitHub Streak"
 </p>
 
 <p align="center">
-Thanks for visiting my profile! 🚀
+
+⭐ Thanks for visiting my profile! ⭐
+
 </p>
