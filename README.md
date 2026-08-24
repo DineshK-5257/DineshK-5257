@@ -24,13 +24,10 @@
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=DineshK-5257&color=58A6FF&style=for-the-badge"/>
-
 </div>
 
 ---
+
 # 👨‍💻 About Me
 
 <table>
@@ -40,19 +37,35 @@
 
 🎓 **B.Tech Artificial Intelligence & Data Science Student**
 
+<br>
+
 🤖 Passionate about **Artificial Intelligence, Machine Learning and Intelligent Systems**
+
+<br>
 
 📊 Interested in **Data Science, Deep Learning and Data Analytics**
 
+<br>
+
 🧠 Exploring **Graph Neural Networks, Agentic AI and Advanced AI Models**
+
+<br>
 
 💻 Building projects that transform **data and ideas into practical solutions**
 
+<br>
+
 🏆 Award-winning **project presenter and AI enthusiast**
+
+<br>
 
 🌱 Continuously learning new technologies and improving my technical skills
 
+<br>
+
 🚀 Aspiring **AI Engineer | Data Scientist | Machine Learning Engineer**
+
+<br>
 
 ---
 
@@ -60,17 +73,32 @@
 
 <td width="35%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=260&text=AI%20%26%20DATA%20SCIENCE&fontSize=25&fontColor=ffffff&color=0D1117&stroke=58A6FF&strokeWidth=2&animation=fadeIn" width="100%"/>
+### 🤖 AI & Data Science
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=300&height=100&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Deep+Learning;Intelligent+Systems" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java" width="190"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java" width="210"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" width="210"/>
+
+<br><br>
+
+**Learn • Build • Innovate**
 
 </td>
 
 </tr>
 </table>
-# 🧠 What I’m Interested In
+
+---
+
+# 🧠 What I'm Interested In
 
 <div align="center">
 
@@ -90,11 +118,11 @@
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🥇 First Place — Poster Presentation
 
-### EcoTwin AI
+### 🌱 EcoTwin AI
 
 🏆 Secured **1st Place** in a Poster Presentation competition.
 
@@ -104,7 +132,7 @@
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## ☕ Oracle Certified Professional
 
@@ -122,13 +150,13 @@
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🤖 Oracle Agentic AI Foundations
 
 Certified in **Agentic AI Foundations**.
 
-Focused on:
+### Focus Areas
 
 `AI Agents`  
 `Generative AI`  
@@ -137,17 +165,17 @@ Focused on:
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 📊 Career Essentials in Data Analytics
 
 Completed the **Career Essentials in Data Analytics** certification.
 
-🏢 Microsoft
+🏢 **Microsoft**
 
-💼 LinkedIn Learning
+💼 **LinkedIn Learning**
 
-**Skills**
+### Skills
 
 `Data Analytics` `Data Visualization` `Data Insights`
 
@@ -165,7 +193,7 @@ Completed the **Career Essentials in Data Analytics** certification.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🔐 Identity Fraud Detection
 
@@ -182,7 +210,7 @@ Developing an intelligent fraud detection system for identifying suspicious rela
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🧠 Currently Learning
 
@@ -219,11 +247,13 @@ Developing an intelligent fraud detection system for identifying suspicious rela
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Agentic_AI-0D1117?style=for-the-badge&logo=ai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentic_AI-0D1117?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge"/>
 
@@ -265,7 +295,7 @@ Developing an intelligent fraud detection system for identifying suspicious rela
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🔐 Identity Fraud Detection
 
@@ -281,7 +311,7 @@ Graph-based fraud detection and intelligent relationship analysis.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🌱 EcoTwin AI
 
@@ -303,7 +333,7 @@ An innovative AI-focused project designed around intelligent and sustainable sol
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🛒 E-Commerce Recommendation System
 
@@ -319,7 +349,7 @@ Personalized recommendations and user behavior analysis.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🚦 Intelligent Traffic Management
 
@@ -339,7 +369,7 @@ Traffic optimization and intelligent route analysis.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## ☀️ Solar Power Forecasting
 
@@ -355,7 +385,7 @@ Time-series forecasting and renewable energy analytics.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🤖 AI & Data Science Projects
 
@@ -390,9 +420,6 @@ A collection of academic and personal projects involving Artificial Intelligence
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DineshK-5257&theme=github_dark" width="95%"/>
 
 </div>
-
----
-
 
 ---
 
