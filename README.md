@@ -26,7 +26,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=DineshK-5257&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=DineshK-5257&color=58A6FF&style=for-the-badge"/>
 
 </div>
 
