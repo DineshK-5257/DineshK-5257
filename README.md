@@ -54,6 +54,7 @@
 
 🚀 Aspiring **AI Engineer | Data Scientist | Machine Learning Engineer**
 
+---
 
 </td>
 
@@ -392,13 +393,6 @@ A collection of academic and personal projects involving Artificial Intelligence
 
 ---
 
-# 📊 GitHub Language Distribution
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshK-5257&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="200"/>
-
-</div>
 
 ---
 
