@@ -407,7 +407,9 @@ A collection of academic and personal projects involving Artificial Intelligence
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DineshK-5257&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<a href="https://github.com/DineshK-5257">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DineshK-5257&theme=github-compact&hide_border=true" width="95%"/>
+</a>
 
 </div>
 
