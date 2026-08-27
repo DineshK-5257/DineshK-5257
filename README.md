@@ -403,16 +403,6 @@ A collection of academic and personal projects involving Artificial Intelligence
 
 ---
 
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DineshK-5257&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="95%"/>
-
-</div>
-
----
-
 # 🔥 GitHub Contribution Graph
 
 <div align="center">
